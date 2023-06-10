@@ -1,0 +1,12 @@
+/* La mejor práctica para ajustar las imágenes son los procentajes */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logosena {
+    width: 9%;
+}
+
+.psaludo {
+    text-align: justify;
+}
