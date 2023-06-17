@@ -2,4 +2,4 @@
 var firtsname=prompt("Por favor escriba su nombre");
 
 /* El + es para concatenar/unir dos funciones o "invocar" una. En este caso el nombre que se introduce en la variable firtsname */ 
-alert("Bienvenidos, "+firtsname+" a la presentación de la propuesta")
+alert("Bienvenido, "+firtsname+" a la presentación de la propuesta")
